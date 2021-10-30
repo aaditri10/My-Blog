@@ -62,7 +62,7 @@ img:hover {
 .text {
     font-family: 'Annie Use Your Telescope', cursive;
     font-size: 40px;
-    color: lightblue;
+    color: darkcyan;
     padding-left: 200px;
     padding-right: 200px;
     text-align: left;
@@ -87,5 +87,4 @@ html {
 #line {
     height: 20px;
     width: 20px;
-    color: cadetblue;
 }
