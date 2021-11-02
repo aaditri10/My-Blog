@@ -21,7 +21,7 @@ body {
     padding-left: 250px;
     padding-right: 100px;
     text-align: center;
-    color: darkcyan;
+    color: purple;
     font-size: 25px;
     font-family: 'La Belle Aurore', cursive;
     text-align: center;
@@ -32,7 +32,7 @@ body {
     height: 100%;
     width: 100%;
     font-size: 100px;
-    background-image: url(Winter%20Background.png)
+    background-image: url(Diwali%20Blog%20Banner.png)
 }
 
 #heading {
@@ -42,7 +42,7 @@ body {
 }
 
 .item:hover {
-    background-color: aliceblue;
+    background-color: lavender;
 }
 
 img {
@@ -51,10 +51,12 @@ img {
 
 img:hover {
     transform: scale(0.9);
+    border-width: 3px;
+    border-color: rebeccapurple;
 }
 
 .title {
-    color: cadetblue;
+    color: darkgoldenrod;
     font-size: 50px;
     font-family: 'Nothing You Could Do', cursive;
 }
@@ -62,7 +64,7 @@ img:hover {
 .text {
     font-family: 'Annie Use Your Telescope', cursive;
     font-size: 40px;
-    color: darkcyan;
+    color: rebeccapurple;
     padding-left: 200px;
     padding-right: 200px;
     text-align: left;
@@ -70,12 +72,12 @@ img:hover {
 
 h2 {
     font-family: 'La Belle Aurore';
-    color: darkolivegreen;
+    color: purple;
 }
 
 a {
     text-decoration: underline;
-    color: darkcyan;
+    color: rebeccapurple;
     font-family: 'La Belle Aurore';
     font-size: 30px;
 }
