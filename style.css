@@ -32,7 +32,7 @@ body {
     height: 100%;
     width: 100%;
     font-size: 100px;
-    background-image: url(Diwali%20Blog%20Banner.png)
+    background-image: url(winter.png)
 }
 
 #heading {
@@ -64,7 +64,7 @@ img:hover {
 .text {
     font-family: 'Annie Use Your Telescope', cursive;
     font-size: 40px;
-    color: rebeccapurple;
+    color: darkblue;
     padding-left: 200px;
     padding-right: 200px;
     text-align: left;
@@ -72,12 +72,12 @@ img:hover {
 
 h2 {
     font-family: 'La Belle Aurore';
-    color: purple;
+    color: cadetblue;
 }
 
 a {
     text-decoration: underline;
-    color: rebeccapurple;
+    color: steelblue;
     font-family: 'La Belle Aurore';
     font-size: 30px;
 }
